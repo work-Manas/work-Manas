@@ -1,4 +1,7 @@
 ## Hi there 👋
+🌱 I’m currently learning : Django, web-dev
+😄 Pronouns: He/Him
+📫 How to reach me: call me maybe..
 
 <!--
 **work-Manas/work-Manas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
